@@ -4,7 +4,7 @@
 
 ## Informed AI Regulation: Comparing the Ethical Frameworks of Leading LLM Chatbots Using an Ethics-Based Audit to Assess Moral Reasoning and Normative Values
 
-### By Jon Chun and Katherine Elkins
+### By Katherine Elkins and Jon Chun 
 
 
 ## UPDATE: (8 Jan 2024)
